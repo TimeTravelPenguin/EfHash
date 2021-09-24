@@ -1,4 +1,4 @@
-﻿module EfShar.Extensions.StringExtensions
+module EfHash.Extensions.StringExtensions
 
 type System.String with
   end 
